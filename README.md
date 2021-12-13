@@ -94,7 +94,7 @@ Now point your existing reverse proxy for the hosts you configured in the previo
 ![NginxProxyManager Config](https://user-images.githubusercontent.com/2771251/132512090-621926eb-70b5-4801-a477-70cc300ab2a1.jpeg)
 
 ### Environment Variables
-Additionally to the configuration done in the `congif.yml` file, there are a few settings which can only be configured by using environment variables.
+Additionally to the configuration done in the `config.yml` file, there are a few settings which can only be configured by using environment variables.
 
 Name | Valid Values | Description
 -----|--------------|------------
